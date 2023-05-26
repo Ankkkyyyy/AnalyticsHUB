@@ -1,7 +1,7 @@
 
 # AnalyticsHub
 
-AnalyticsHub is a API Platform which is still under development, The Goal is to provide Free API Services. Currently it Only provides the API Service of IPL.
+AnalyticsHub is a API Platform which is still under development , The Goal is to provide Free API Services. Currently it Only provides the API Service of IPL.
 The response of the all IPL API contains data such as the number of matches played, number of matches won/lost/tied,highest scorer etc. As currently we only provide API's for IPL Data, Will be adding more API's Services comming soon.
 
 
