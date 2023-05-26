@@ -4,26 +4,17 @@
 AnalyticsHub is a API Platform which is still under development , The Goal is to provide Free API Services. Currently it Only provides the API Service of IPL.
 The response of the all IPL API contains data such as the number of matches played, number of matches won/lost/tied,highest scorer etc. As currently we only provide API's for IPL Data, Will be adding more API's Services comming soon.
 
+## <img width="901" alt="AnalyticsHub" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/19aaa7c1-1e7f-4e22-a0a2-e964602d8d98">
 
+## <img width="880" alt="AnalyticsHub2" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/cfadeb43-e9ce-4916-8037-0307cf2a4147">
 
+## <img width="876" alt="analyticshub3" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/1862409d-3d36-4826-97c4-b6f7dd939bd5">
 
-## <img width="901" alt="AnalyticsHub" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/3ebc7623-b7da-4f07-a033-8a17443bc933">
+## <img width="890" alt="AnalyticsHub4" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/846429d8-4e41-4bce-9eed-aa4554743006">
 
-## <img width="880" alt="AnalyticsHub2" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/27705d6f-4e86-4677-a4df-8776897a0262">
+## <img width="917" alt="AnalyticsHub5" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/8bfce4b8-4fdf-4e5a-aa95-93405112cc7a">
 
-## <img width="876" alt="analyticshub3" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/48cc6834-d7b6-460e-bd66-3689471c131b">
-
-## <img width="890" alt="AnalyticsHub4" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/308b9139-3edc-4f35-b36a-cc0b3babac86">
-
-## <img width="917" alt="AnalyticsHub5" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/34eaedc7-0b2b-4986-9632-3f25777629da">
-
-## <img width="901" alt="AnalyticsHub6" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/c9651437-e4ce-4c27-8659-b922c1e6b6cb">
-
-## 
-
-
-
-
+## <img width="901" alt="AnalyticsHub6" src="https://github.com/Ankkkyyyy/AnalyticsHUB/assets/98558150/09580cc1-ff8a-472d-a9dc-a9f4f3192d2e">
 
 
 ## Documentation
